@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Python-Html-Lunix**
+- 💬 Ask me about **Python-Html-Linux**
 
 - 📫 How to reach me **arunhatter@gmail.com**
 
